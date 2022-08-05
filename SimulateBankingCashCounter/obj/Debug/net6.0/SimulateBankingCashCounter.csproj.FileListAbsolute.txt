@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\SimulateBankingCashCounter\SimulateBankingCashCounter\bin\Debug\net6.0\SimulateBankingCashCounter.exe
+C:\Users\DELL\source\repos\SimulateBankingCashCounter\SimulateBankingCashCounter\bin\Debug\net6.0\SimulateBankingCashCounter.deps.json
+C:\Users\DELL\source\repos\SimulateBankingCashCounter\SimulateBankingCashCounter\bin\Debug\net6.0\SimulateBankingCashCounter.runtimeconfig.json
+C:\Users\DELL\source\repos\SimulateBankingCashCounter\SimulateBankingCashCounter\bin\Debug\net6.0\SimulateBankingCashCounter.dll
+C:\Users\DELL\source\repos\SimulateBankingCashCounter\SimulateBankingCashCounter\bin\Debug\net6.0\SimulateBankingCashCounter.pdb
+C:\Users\DELL\source\repos\SimulateBankingCashCounter\SimulateBankingCashCounter\obj\Debug\net6.0\SimulateBankingCashCounter.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SimulateBankingCashCounter\SimulateBankingCashCounter\obj\Debug\net6.0\SimulateBankingCashCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\SimulateBankingCashCounter\SimulateBankingCashCounter\obj\Debug\net6.0\SimulateBankingCashCounter.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SimulateBankingCashCounter\SimulateBankingCashCounter\obj\Debug\net6.0\SimulateBankingCashCounter.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SimulateBankingCashCounter\SimulateBankingCashCounter\obj\Debug\net6.0\SimulateBankingCashCounter.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SimulateBankingCashCounter\SimulateBankingCashCounter\obj\Debug\net6.0\SimulateBankingCashCounter.dll
+C:\Users\DELL\source\repos\SimulateBankingCashCounter\SimulateBankingCashCounter\obj\Debug\net6.0\refint\SimulateBankingCashCounter.dll
+C:\Users\DELL\source\repos\SimulateBankingCashCounter\SimulateBankingCashCounter\obj\Debug\net6.0\SimulateBankingCashCounter.pdb
+C:\Users\DELL\source\repos\SimulateBankingCashCounter\SimulateBankingCashCounter\obj\Debug\net6.0\SimulateBankingCashCounter.genruntimeconfig.cache
+C:\Users\DELL\source\repos\SimulateBankingCashCounter\SimulateBankingCashCounter\obj\Debug\net6.0\ref\SimulateBankingCashCounter.dll
